@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MrSyntax31
 - 👀 I’m interested in wed development, android, and software engineering
 - 🌱 I’m currently learning javascript, c#, flutter and react js
+- 🖌️ Mobile UI designer : Figma, Affinity Designer, InDesign
 - 💞️ I’m looking to collaborate on building application
 - 📫 How to reach me email me arllan.officialit01@gmail.com
 
