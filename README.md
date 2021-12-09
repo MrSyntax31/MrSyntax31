@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on building application
 - 📫 How to reach me email me arllan.officialit01@gmail.com
 - ⚡ Fun fact: I love to watch anime and play LOL / volleyball
-- 
+
 ### Connect with me:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/arllan-del-espiritu-santo-6b74b3207/"/>
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
