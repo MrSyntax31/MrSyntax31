@@ -1,4 +1,4 @@
-### Hi there, I'm Arllan - aka Lan 👋 
+### Hi there, I'm Arllan - aka Arman 👋 
 ## I'm a self-taught web developer, Designer, and Educator!
 
 - 👋 Hi, I’m @MrSyntax31
